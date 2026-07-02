@@ -7,7 +7,9 @@ body {
 }
 
 img {
-    max-width: 100%;
+    max-width: 75%;
+    position: relative;  
+    left: 200px
 }
 
 p {
