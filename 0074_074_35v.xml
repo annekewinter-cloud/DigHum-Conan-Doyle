@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Adventure of the Norwood Builder p. 74</title>
+            <author>Arthur Conan Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5330" lry="7115" xml:id="facs_1">
+         <graphic url="0074_074_35v.jpeg" width="5330px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=WPUXTCECGKMQDTJLABYQPMXY" width="5330px" height="7115px"/>
+         <zone points="4578,304 5014,304 5014,598 4578,598" rendition="TextRegion" xml:id="facs_1_r" subtype="page-number">
+            <zone points="4593,316 4860,316 4860,595 4593,595" rendition="Line" xml:id="facs_1_r_tl_1"/>
+         </zone>
+         <zone points="111,820 5227,820 5227,6685 111,6685" rendition="TextRegion" xml:id="facs_1_r_1">
+            <zone points="243,857 4799,857 4799,1276 243,1276" rendition="Line" xml:id="facs_1_r_1_tl_1"/>
+            <zone points="267,1209 4003,1209 4003,1598 267,1598" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="3584,1148 4186,1148 4186,1343 3584,1343" rendition="Line" xml:id="facs_1_r_1_tl_2"/>
+            <zone points="4040,1185 4969,1185 4969,1616 4040,1616" rendition="Line" xml:id="facs_1_l_1"/>
+            <zone points="286,1482 3408,1482 3408,1877 286,1877" rendition="Line" xml:id="facs_1_r_1_tl_4"/>
+            <zone points="1251,1804 5085,1804 5085,2217 1251,2217" rendition="Line" xml:id="facs_1_r_1_tl_5"/>
+            <zone points="225,2132 1646,2132 1646,2485 225,2485" rendition="Line" xml:id="facs_1_r_1_tl_6"/>
+            <zone points="1318,2369 4903,2369 4903,2770 1318,2770" rendition="Line" xml:id="facs_1_r_1_tl_7"/>
+            <zone points="225,2716 4805,2716 4805,3074 225,3074" rendition="Line" xml:id="facs_1_r_1_tl_8"/>
+            <zone points="292,3007 4903,3007 4903,3359 292,3359" rendition="Line" xml:id="facs_1_r_1_tl_9"/>
+            <zone points="237,3372 808,3372 808,3663 237,3663" rendition="Line" xml:id="facs_1_l_2"/>
+            <zone points="705,3250 1227,3250 1227,3493 705,3493" rendition="Line" xml:id="facs_1_r_1_tl_10"/>
+            <zone points="844,3317 2801,3317 2801,3688 844,3688" rendition="Line" xml:id="facs_1_l_3"/>
+            <zone points="2059,3250 2570,3250 2570,3463 2059,3463" rendition="Line" xml:id="facs_1_r_1_tl_11"/>
+            <zone points="2807,3299 5115,3299 5115,3669 2807,3669" rendition="Line" xml:id="facs_1_l_4"/>
+            <zone points="243,3633 4732,3633 4732,4003 243,4003" rendition="Line" xml:id="facs_1_r_1_tl_14"/>
+            <zone points="4362,3548 4848,3548 4848,3773 4362,3773" rendition="Line" xml:id="facs_1_r_1_tl_13"/>
+            <zone points="273,3882 5146,3882 5146,4283 273,4283" rendition="Line" xml:id="facs_1_r_1_tl_15"/>
+            <zone points="1343,4192 5042,4192 5042,4605 1343,4605" rendition="Line" xml:id="facs_1_r_1_tl_16"/>
+            <zone points="261,4520 911,4520 911,4830 261,4830" rendition="Line" xml:id="facs_1_r_1_tl_17"/>
+            <zone points="1525,4811 3074,4811 3074,5176 1525,5176" rendition="Line" xml:id="facs_1_r_1_tl_18"/>
+            <zone points="1537,5109 5036,5109 5036,5510 1537,5510" rendition="Line" xml:id="facs_1_r_1_tl_19"/>
+            <zone points="213,5358 790,5358 790,5729 213,5729" rendition="Line" xml:id="facs_1_r_1_tl_20"/>
+            <zone points="1434,5650 4107,5650 4107,6069 1434,6069" rendition="Line" xml:id="facs_1_r_1_tl_21"/>
+            <zone points="1422,6020 4951,6020 4951,6391 1422,6391" rendition="Line" xml:id="facs_1_r_1_tl_22"/>
+            <zone points="243,6300 5006,6300 5006,6737 243,6737" rendition="Line" xml:id="facs_1_r_1_tl_23"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/><fw type="page-number" facs="#facs_1_r" place="top">
+               <lb facs="#facs_1_r_tl_1" n="N001"/>34</fw>
+            <ab facs="#facs_1_r_1" type="paragraph">
+               <lb facs="#facs_1_r_1_tl_1" n="N001"/>have it his own way, can he. Dr Watson? Step this way if you
+               <lb facs="#facs_1_l" n="N002"/>please, gentlemen, and I think I can convince you
+                  <add hand="#ACD" place="supralinear" rend="black ink">once for all</add>
+                  that it
+               <lb facs="#facs_1_r_1_tl_4" n="N005"/>was <rs type="person">John McFarlane</rs> who did this crime."
+               <lb facs="#facs_1_r_1_tl_5" n="N006"/>He led us through the passage and out into 
+                  <del type="crossedOut" hand="#ACD" rend="black ink">the</del>
+                  <add hand="#ACD" place="inline" rend="black ink">a</add>
+               <lb facs="#facs_1_r_1_tl_6" n="N007"/>dark hall beyond.
+               <lb facs="#facs_1_r_1_tl_7" n="N008"/>"This is where young McFarlane must have
+               <lb facs="#facs_1_r_1_tl_8" n="N009"/>come out to get his hat after the crime was done" said he.
+               <lb facs="#facs_1_r_1_tl_9" n="N010"/>Now, look at this?" With dramatic suddeness he struck a
+               match
+                  <add hand="#ACD" place="supralinear" rend="black ink">lit a candle</add>
+               and exposed
+                   <del type="crossedOut" hand="#ACD" rend="black ink">two stains</del>
+                   <add hand="#ACD" place="supralinear" rend="black ink">a stain</add>            
+               of blood upon the white washed
+               <lb facs="#facs_1_r_1_tl_14" n="N016"/>wall. As he held the match nearer I saw that
+                     <del type="crossedOut" hand="#ACD" rend="black ink">they were</del>
+                     <add>it was</add>
+               <lb facs="#facs_1_r_1_tl_15" n="N018"/>more than a stain. It was the well marked print of a thumb.
+               <lb facs="#facs_1_r_1_tl_16" n="N019"/>"Look at that with your magnifying glass, Mr
+               <lb facs="#facs_1_r_1_tl_17" n="N020"/>Holmes."
+               <lb facs="#facs_1_r_1_tl_18" n="N021"/>"Yes, I am doing so"
+               <lb facs="#facs_1_r_1_tl_19" n="N022"/>"You are aware that no two thumb marks are
+               <lb facs="#facs_1_r_1_tl_20" n="N023"/>alike?"
+               <lb facs="#facs_1_r_1_tl_21" n="N024"/>"I have heard something of the kind"
+               <lb facs="#facs_1_r_1_tl_22" n="N025"/>"Well then will you please compare that print
+               <lb facs="#facs_1_r_1_tl_23" n="N026"/>with this wax impression of young McFarlanes right thumb
+            </ab></div>
+      </body>
+   </text>
+</TEI>

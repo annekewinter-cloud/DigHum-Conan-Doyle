@@ -14,6 +14,10 @@ p {
     text-indent: 10px;
 }
 
+lb {
+    display: block;
+}
+
 .row {
     width: 100%;
     margin-left: 0;
@@ -25,10 +29,15 @@ p {
 }
 
 .add {
-  color: green;
+  color: blue;
 }
 
 .del {
   text-decoration: line-through;
+  text-decoration-thickness: 2px
 }
 
+.fw {
+    text-align: center;
+    width: 100%;
+}
