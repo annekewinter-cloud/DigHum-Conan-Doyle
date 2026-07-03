@@ -75,6 +75,19 @@
         </div>
     </xsl:template>
     
-   
+ <xsl:template match="tei:rs[@type = 'person']">
+        <span class="person">
+        <xsl:apply-templates/>
+        </span >
+    </xsl:template>
+
+<xsl:template match="tei:rs[@type='person']">    
+<a href="{@ref}">
+        <xsl:attribute name="class">
+            <xsl:value-of select="attribute::type" />
+        </xsl:attribute>
+    <xsl:apply-templates/>
+    </a></xsl:template>
+
     
 </xsl:stylesheet>

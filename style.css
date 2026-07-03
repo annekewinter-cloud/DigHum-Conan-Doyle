@@ -6,10 +6,16 @@ body {
   text-align: center;
 }
 
-img {
+img.manuscript {
     max-width: 75%;
     position: relative;  
-    left: 200px
+    left: 200px;
+}
+
+img.illustratie {
+    max-width: 30%;
+    position: relative;
+    left: 200px;
 }
 
 p {
@@ -32,6 +38,12 @@ lb {
 
 .add {
   color: blue;
+  vertical-align: super
+}
+
+.person {
+  color: red;
+  font-weight: bold
 }
 
 .del {

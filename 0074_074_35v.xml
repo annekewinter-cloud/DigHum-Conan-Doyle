@@ -55,7 +55,7 @@
          <div><pb facs="#facs_1" n="1" xml:id="img_0001"/><fw type="page-number" facs="#facs_1_r" place="top">
                <lb facs="#facs_1_r_tl_1" n="N001"/>34</fw>
             <ab facs="#facs_1_r_1" type="paragraph">
-               <lb facs="#facs_1_r_1_tl_1" n="N001"/>have it his own way, can he. Dr Watson? Step this way if you
+               <lb facs="#facs_1_r_1_tl_1" n="N001"/>have it his own way, can he, <rs type="person" ref="https://wikidata.org/wiki/Q187349">Dr Watson</rs>? Step this way if you
                <lb facs="#facs_1_l" n="N002"/>please, gentlemen, and I think I can convince you
                   <add hand="#ACD" place="supralinear" rend="black ink">once for all</add>
                   that it
@@ -64,7 +64,7 @@
                   <del type="crossedOut" hand="#ACD" rend="black ink">the</del>
                   <add hand="#ACD" place="inline" rend="black ink">a</add>
                <lb facs="#facs_1_r_1_tl_6" n="N007"/>dark hall beyond.
-               <lb facs="#facs_1_r_1_tl_7" n="N008"/>"This is where young McFarlane must have
+               <lb facs="#facs_1_r_1_tl_7" n="N008"/>"This is where <rs type="person">young McFarlane</rs> must have
                <lb facs="#facs_1_r_1_tl_8" n="N009"/>come out to get his hat after the crime was done" said he.
                <lb facs="#facs_1_r_1_tl_9" n="N010"/>Now, look at this?" With dramatic suddeness he struck a
                match
@@ -77,14 +77,14 @@
                      <del type="crossedOut" hand="#ACD" rend="black ink">they were</del>
                      <add>it was</add>
                <lb facs="#facs_1_r_1_tl_15" n="N018"/>more than a stain. It was the well marked print of a thumb.
-               <lb facs="#facs_1_r_1_tl_16" n="N019"/>"Look at that with your magnifying glass, Mr
-               <lb facs="#facs_1_r_1_tl_17" n="N020"/>Holmes."
+               <lb facs="#facs_1_r_1_tl_16" n="N019"/>"Look at that with your magnifying glass, <rs type="person" ref="https://wikidata.org/wiki/Q4653">Mr
+               <lb facs="#facs_1_r_1_tl_17" n="N020"/>Holmes</rs>."
                <lb facs="#facs_1_r_1_tl_18" n="N021"/>"Yes, I am doing so"
                <lb facs="#facs_1_r_1_tl_19" n="N022"/>"You are aware that no two thumb marks are
                <lb facs="#facs_1_r_1_tl_20" n="N023"/>alike?"
                <lb facs="#facs_1_r_1_tl_21" n="N024"/>"I have heard something of the kind"
                <lb facs="#facs_1_r_1_tl_22" n="N025"/>"Well then will you please compare that print
-               <lb facs="#facs_1_r_1_tl_23" n="N026"/>with this wax impression of young McFarlanes right thumb
+               <lb facs="#facs_1_r_1_tl_23" n="N026"/>with this wax impression of <rs type="person">young McFarlanes</rs> right thumb
             </ab></div>
       </body>
    </text>
