@@ -9,7 +9,10 @@
             <p>Unpublished</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Born digital</p>
+            <p>
+               <lb>Image 75 of the <a ref="https://digitalcollections.nypl.org/items/7b4520d0-6ce7-0136-3315-4fed6be43dea?canvasIndex=74">digitized version of the original manuscript</a></lb>
+               <lb> - Page 34 according to the editor's numbering of the same manuscript</lb>
+            </p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
